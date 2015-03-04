@@ -1,0 +1,22 @@
+{
+  "name": "linsl",
+  "version": "0.0.1",
+  "description": "linsl is not a simple linter",
+  "main": "index.js",
+  "keywords": [
+    "lint"
+  ],
+  "author": "liuji-jim",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "chalk": "^0.4.0",
+    "csslint": "^0.10.0",
+    "extend": "^1.2.1",
+    "glob": "^3.2.10",
+    "htmlparser2": "^3.7.2",
+    "jshint": "^2.5.0",
+    "minimatch": "^0.3.0",
+    "mkdirp": "~0.5.0",
+    "minimist": "~0.2.0"
+  }
+}
